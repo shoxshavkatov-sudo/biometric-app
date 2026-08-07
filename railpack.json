@@ -1,8 +1,0 @@
-{
-  "build": {
-    "aptPackages": [
-      "cmake",
-      "build-essential"
-    ]
-  }
-}
